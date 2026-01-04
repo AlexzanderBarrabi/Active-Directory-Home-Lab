@@ -67,44 +67,44 @@ Installed AD DS and DNS roles to enable centralized authentication and domain ma
 ## Screenshots
 
 ### 1. AD DS Installed
-Shows Active Directory Domain Services and DNS installed on the server.  
-<img width="1907" height="1013" alt="domain-controller-ad-ds png" src="https://github.com/user-attachments/assets/cc17da5f-1336-45a8-9790-1d3f9f13cec9" />
+Shows Active Directory Domain Services and DNS installed on the server.
 
+<img width="1907" height="1013" alt="domain-controller-ad-ds png" src="https://github.com/user-attachments/assets/cc17da5f-1336-45a8-9790-1d3f9f13cec9" />
 
 ---
 
 ### 2. Domain Controller Promoted
 Shows the server successfully promoted to a Domain Controller and the domain created.  
-<img width="1397" height="1009" alt="domain-controller-promotion" src="https://github.com/user-attachments/assets/a9c9f30b-c458-464c-8a14-e46bab93b459" />
 
+<img width="1397" height="1009" alt="domain-controller-promotion" src="https://github.com/user-attachments/assets/a9c9f30b-c458-464c-8a14-e46bab93b459" />
 
 ---
 
 ### 3. RAS / NAT Configuration
 Displays the Routing and Remote Access console with NAT enabled and internal/external interfaces configured.  
-<img width="1694" height="1011" alt="RAS-NAT-CONFIGURED" src="https://github.com/user-attachments/assets/c894f9da-678f-4d4f-9b0e-3e36716c2d64" />
 
+<img width="1694" height="1011" alt="RAS-NAT-CONFIGURED" src="https://github.com/user-attachments/assets/c894f9da-678f-4d4f-9b0e-3e36716c2d64" />
 
 ---
 
 ### 4. DHCP Server Scope Created
 Shows the DHCP Management Console with an authorized scope configured for the domain network.  
-<img width="1570" height="816" alt="DHCP-SERVER-SCOPE" src="https://github.com/user-attachments/assets/471a0574-692e-4768-8abe-4bd90dd97efd" />
 
+<img width="1570" height="816" alt="DHCP-SERVER-SCOPE" src="https://github.com/user-attachments/assets/471a0574-692e-4768-8abe-4bd90dd97efd" />
 
 ---
 
 ### 5. PowerShell Bulk User Creation
 Displays PowerShell output confirming successful bulk user creation, along with ADUC showing OUs and domain users.  
-<img width="1909" height="976" alt="POWERSHELL-BULK-USER-CREATION" src="https://github.com/user-attachments/assets/2a39d108-bb55-44b8-8085-b8e9dab9abc6" />
 
+<img width="1909" height="976" alt="POWERSHELL-BULK-USER-CREATION" src="https://github.com/user-attachments/assets/2a39d108-bb55-44b8-8085-b8e9dab9abc6" />
 
 ---
 
 ### 6. Windows Client Joined to Domain
 Confirms the Windows 10 client is joined to the domain (`mydomain.com`) and received an IP address from DHCP.  
-<img width="1304" height="888" alt="WCLIENT-JOINED-DOMAIN" src="https://github.com/user-attachments/assets/2ab7b07d-2f21-4940-9bea-331ca487b7f4" />
 
+<img width="1304" height="888" alt="WCLIENT-JOINED-DOMAIN" src="https://github.com/user-attachments/assets/2ab7b07d-2f21-4940-9bea-331ca487b7f4" />
 
 ---
 
